@@ -1,0 +1,18 @@
+Indigo Platform:
+-After analyzing the cloud execution failure, I addressed and resolved the identified issues.
+-Made the fixes on the identified failure and push the code repo
+
+Gatsby:
+-After analyzing the cloud execution failure, I addressed and resolved the identified issues.
+-Made the fixes on the identified failure and push the code repo
+
+s1 - sangeetha_b1
+s2 - sangeetha_b2
+
+sangeetha_b1 master
+
+sangeetha_b2 master
+
+
+
+
